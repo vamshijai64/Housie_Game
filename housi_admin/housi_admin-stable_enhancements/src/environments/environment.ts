@@ -3,7 +3,7 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  serverIp: 'http://3.6.207.236:3002',
+  serverIp: 'http://36.255.253.67:3002',
   production: false,
   envName: 'production',
   appName: 'housie',
@@ -12,7 +12,7 @@ export const environment = {
     //host: 'http://192.168.0.94:3002/api/admin/'
 
   // host: 'http://3.109.48.128:3002/api/admin/'
-  host: 'http://3.6.207.236:3002/api/admin/'
+  host: 'http://36.255.253.67:3002/api/admin/'
 };
 
 /* 3.111.94.238
